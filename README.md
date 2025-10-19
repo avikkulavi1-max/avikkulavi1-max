@@ -31,9 +31,9 @@
  
 <h3 align="left">📫 Connect With Me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/Avɩĸ ĸʋɭʌvɩ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Avik kulavi" height="30" width="40" /></a>
-<a href="https://instagram.com/avikkulavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avikkulavi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avik-kulavi-075510369 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avikkulavi" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/av.v.899568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Avik kulavi" height="50" width="50" /></a>
+<a href="https://instagram.com/avikkulavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avikkulavi" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/avik-kulavi-075510369 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avikkulavi" height="50" width="50" /></a>
 </p>
 
 ---
