@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Student+at+Techno+India+University;Full+Stack+Developer;Backend+%7C+Frontend+%7C+Database;Always+Learning+New+Things" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500" />
+<p align="center"> <img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/974e8c3f-5362-4807-9b6e-1b68785dec93" width="500" />
 </p>
 
 ---
