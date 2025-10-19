@@ -35,6 +35,12 @@
 <a href="https://instagram.com/avikkulavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avikkulavi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/avik-kulavi-075510369 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avikkulavi" height="50" width="50" /></a>
 </p>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avikkulavi1-max&show_icons=true&locale=en" alt="avikkulavi1-max" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avikkulavi1-max&" alt="avikkulavi1-max" /></p>
+
 
 ---
 
